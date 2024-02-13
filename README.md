@@ -1,6 +1,7 @@
 <body>
     <h1>Climate Change Tweet Sentiment Predictor Project</h1>
     <p>This project aims to analyze public sentiment on climate change through Twitter data, classifying tweets into four distinct categories: News, Pro (supportive of climate change efforts), Neutral, and Anti (opposed to climate change efforts). Utilizing the "Twitter Climate Change Sentiment Dataset" from Kaggle, which encompasses over 40,000 tweets spanning from April 27, 2015, to February 21, 2018, this analysis provides insights into public opinion dynamics over time regarding global warming and related environmental issues.</p>
+    <i>Note: .ipynb file may not display fully in GitHub, please download the file to see the rest of the project code.</i>
     <h2>Key Features:</h2>
     <ul>
         <li><strong>Sentiment Classification</strong>: Tweets are categorized into News, Pro, Neutral, or Anti, offering a comprehensive view of public sentiment on climate change.</li>
